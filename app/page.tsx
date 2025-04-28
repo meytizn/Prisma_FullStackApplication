@@ -1,7 +1,5 @@
-// import Image from "next/image";
 
 import Link from "next/link";
-import { prisma } from "./db";
 import TodoItem from "./components/TodoItem";
 import { GetFetch_SSR } from "./components/PrismaHandlers";
 
